@@ -1,0 +1,1 @@
+SELECT * FROM ordenes WHERE registro BETWEEN '1996-07-01' AND '1996-12-31';
